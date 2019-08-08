@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498093879241",
+    "firebase_url": "https://grocery-5ae9c.firebaseio.com",
+    "project_id": "grocery-5ae9c",
+    "storage_bucket": "grocery-5ae9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498093879241:android:396ce8870e1ec057",
+        "android_client_info": {
+          "package_name": "in.andev.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498093879241-slhkd5a9jcfhgsl7cichr7aah6ea868u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.andev.flutter_app",
+            "certificate_hash": "95678b080b79673a899feb2ac7ef62b3734cb696"
+          }
+        },
+        {
+          "client_id": "498093879241-rqkd8r6cne93n05g044f1epca3mpdfs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdeStjEmq-uVkfYpYfwm_kke0kN4-XqIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498093879241-rqkd8r6cne93n05g044f1epca3mpdfs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
